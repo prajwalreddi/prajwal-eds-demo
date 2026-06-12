@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/prajwal-eds-demo/:/",
-    "/content/prajwal-eds-demo/configuration:/.helix/config.json",
-    "/content/prajwal-eds-demo/metadata:/metadata.json"
+    "/content/ey-com/:/",
+    "/content/ey-com/configuration:/.helix/config.json",
+    "/content/ey-com/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/prajwal-eds-demo/"
+    "/content/ey-com/"
   ]
 }
